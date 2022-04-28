@@ -2,7 +2,7 @@
 
 This repository contains the code, stimuli, pretrained models, and simulation results reported in the following paper:
 
-Orhan AE (2022) [Can deep learning match the efficiency of human visual long-term memory to store object details?](https://arxiv.org/abs/2204.13061) arXiv:2204.13061.
+Orhan AE (2022) [Can deep learning match the efficiency of human visual long-term memory in storing object details?](https://arxiv.org/abs/2204.13061) arXiv:2204.13061.
 
 Part of the code here is adapted from [Andrej Karpathy's minimalistic GPT (minGPT) implementation](https://github.com/karpathy/minGPT).
 
