@@ -2,8 +2,6 @@
 *.out
 *.pt
 *.pth
-*.jpeg
-*.jpg
 
 # Directories
 /__pycache__
