@@ -8,7 +8,7 @@ Part of the code here is adapted from [Andrej Karpathy's minimalistic GPT (minGP
 
 ### Directories:
 
-* [`stimuli`](https://github.com/eminorhan/igpt-memory/blob/master/stimuli/): contains the study and test images used in the simulated versions of the Brady et al. (2008) and Konkle et al. (2010) experiments.
+* [`stimuli`](https://github.com/eminorhan/igpt-memory/blob/master/stimuli/): contains the study and test images used in the simulated versions of the [Brady et al. (2008)](https://www.pnas.org/doi/abs/10.1073/pnas.0803390105) and [Konkle et al. (2010)](https://psycnet.apa.org/record/2010-15559-009) experiments.
 
 * [`results`](https://github.com/eminorhan/igpt-memory/blob/master/results/): contains the simulation results from all experiments and code for reading and plotting the results.
 
@@ -30,12 +30,12 @@ Part of the code here is adapted from [Andrej Karpathy's minimalistic GPT (minGP
 
 ### Pretrained models:
 
-* [`iGPT-S-ImageNet.pt`](https://drive.google.com/file/d/1C83ZFk46fZFgGHo5QpdeUqLg0jToWxeH/view?usp=sharing): iGPT-S model pretrained on ImageNet.
+* [`iGPT-S-ImageNet.pt`](https://drive.google.com/file/d/1C83ZFk46fZFgGHo5QpdeUqLg0jToWxeH/view?usp=sharing): iGPT-S model pretrained on ImageNet (1.9 GB).
 
-* [`iGPT-mini-ImageNet.pt`](https://drive.google.com/file/d/1XdJDgYv2e9cvd52COTjULZCxei970aeh/view?usp=sharing): iGPT-mini model pretrained on ImageNet.
+* [`iGPT-mini-ImageNet.pt`](https://drive.google.com/file/d/1XdJDgYv2e9cvd52COTjULZCxei970aeh/view?usp=sharing): iGPT-mini model pretrained on ImageNet (0.5 GB).
 
-* [`iGPT-S-SAYCam.pt`](https://drive.google.com/file/d/1LPB7fNzuICrCw0ty40snduUrrh-HWe2m/view?usp=sharing): iGPT-S model pretrained on SAYCam.
+* [`iGPT-S-SAYCam.pt`](https://drive.google.com/file/d/1LPB7fNzuICrCw0ty40snduUrrh-HWe2m/view?usp=sharing): iGPT-S model pretrained on SAYCam (1.9 GB).
 
-* [`iGPT-S-SAYCam-0.1.pt`](https://drive.google.com/file/d/1VaE_AIz6nla53fMJaG2UhrnMkz1TsQ4X/view?usp=sharing): iGPT-S model pretrained on 10% of SAYCam.
+* [`iGPT-S-SAYCam-0.1.pt`](https://drive.google.com/file/d/1VaE_AIz6nla53fMJaG2UhrnMkz1TsQ4X/view?usp=sharing): iGPT-S model pretrained on 10% of SAYCam (1.9 GB).
 
-* [`iGPT-S-SAYCam-0.01.pt`](https://drive.google.com/file/d/19Svc2SienQ56FGqNInyST8kLclCJGQeV/view?usp=sharing): iGPT-S model pretrained on 1% of SAYCam.
+* [`iGPT-S-SAYCam-0.01.pt`](https://drive.google.com/file/d/19Svc2SienQ56FGqNInyST8kLclCJGQeV/view?usp=sharing): iGPT-S model pretrained on 1% of SAYCam (1.9 GB).
